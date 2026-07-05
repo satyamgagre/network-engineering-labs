@@ -1,52 +1,83 @@
 # 🌐 Network Engineering Labs
 
-![Cisco](https://img.shields.io/badge/Cisco-Packet%20Tracer-blue)
-![CCNA](https://img.shields.io/badge/CCNA-Labs-success)
-![IPv4](https://img.shields.io/badge/IPv4-Supported-green)
-![IPv6](https://img.shields.io/badge/IPv6-Supported-green)
+> A professional portfolio of Cisco Packet Tracer labs demonstrating practical networking, routing, switching, security, and network services.
 
-A comprehensive collection of Cisco Packet Tracer labs created while learning computer networking and preparing for CCNA concepts. This repository documents practical networking exercises with configurations, topologies, and verification commands.
+![CCNA](https://img.shields.io/badge/CCNA-Labs-success?style=for-the-badge)
+![Cisco](https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?style=for-the-badge)
+![IPv6](https://img.shields.io/badge/IPv6-Supported-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Progress-57%2F73-blue?style=for-the-badge)
 
-## 🚀 Current Progress
+---
 
-**57 / 73 Labs Completed (78%)**
+## 👨‍💻 About This Repository
 
-## 📚 Topics Covered
+This repository showcases my hands-on networking journey through Cisco Packet Tracer labs. Every lab focuses on configuring, troubleshooting, and verifying real networking technologies commonly used in enterprise environments and covered in the CCNA curriculum.
 
-- VLANs, Trunking and VTP
-- EtherChannel
+## 🚀 Skills Demonstrated
+
+- Layer 2 Switching
+- VLANs & Trunking
+- VTP & EtherChannel
 - Inter-VLAN Routing
 - Static Routing
-- RIP, EIGRP, OSPF, Multi-Area OSPF and BGP
-- IPv4 & IPv6 Configuration
-- DHCP, DNS, FTP, HTTP and Email Services
-- ACLs (Standard & Extended)
+- RIP, EIGRP & OSPF
+- Multi-Area OSPF
+- BGP Fundamentals
+- IPv4 & IPv6
+- ACLs
 - NAT & PAT
+- DHCP & DNS
+- FTP, HTTP & Email Services
 - HSRP
-- Layer 2 Security (Port Security, DHCP Snooping, DAI, IPSG)
+- Layer 2 Security
 - Cisco ASA Firewall
 - IPSec VPN
+- Network Troubleshooting
 
-## 📁 Repository Structure
+## 📊 Progress
 
-Each lab generally includes:
-- Packet Tracer (.pkt) file
-- Lab documentation
-- Configuration steps
-- Topology screenshot
+| Labs | Status |
+|------|--------|
+| Completed | **57 / 73** |
+| Completion | **78%** |
+| Remaining | **16 Labs** |
 
-## 🎯 Learning Goals
+## 📂 Repository Structure
 
-- Build strong networking fundamentals.
-- Practice real-world Cisco configurations.
-- Prepare for CCNA and networking interviews.
-- Maintain a structured networking lab portfolio.
+```text
+Lab XX/
+ ├── README.md
+ ├── topology.png
+ ├── configuration.md
+ └── lab.pkt
+```
 
-## 🛠️ Tools
+## 🎯 Learning Objectives
+
+- Strengthen enterprise networking skills.
+- Practice Cisco IOS CLI commands.
+- Build a recruiter-friendly networking portfolio.
+- Prepare for CCNA certification and technical interviews.
+
+## 🛠 Technologies
 
 - Cisco Packet Tracer
-- Cisco IOS CLI
+- Cisco IOS
+- IPv4
+- IPv6
+- Routing Protocols
+- Network Security
 
-## ⭐ Support
+## 📈 Future Roadmap
 
-If you find this repository helpful, consider giving it a ⭐. Feedback and suggestions are always welcome.
+- Complete all 73 labs
+- Add troubleshooting scenarios
+- Add Wireshark packet analysis
+- Add network automation labs
+- Add configuration verification commands
+
+## 🤝 Connect
+
+If this repository helped you or inspired your networking journey, consider giving it a ⭐.
+
+Feedback and suggestions are always welcome!
