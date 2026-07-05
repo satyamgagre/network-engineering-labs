@@ -1,47 +1,52 @@
-# Network Engineering Labs
+# 🌐 Network Engineering Labs
 
 ![Cisco](https://img.shields.io/badge/Cisco-Packet%20Tracer-blue)
 ![CCNA](https://img.shields.io/badge/CCNA-Labs-success)
-![Networking](https://img.shields.io/badge/Networking-Cisco-orange)
+![IPv4](https://img.shields.io/badge/IPv4-Supported-green)
 ![IPv6](https://img.shields.io/badge/IPv6-Supported-green)
 
-A structured collection of hands-on Cisco Packet Tracer labs covering switching, routing, security, IPv6, network services, high availability, and Cisco ASA firewall topics. Each lab includes the Packet Tracer file, documentation, and a topology screenshot.
+A comprehensive collection of Cisco Packet Tracer labs created while learning computer networking and preparing for CCNA concepts. This repository documents practical networking exercises with configurations, topologies, and verification commands.
 
-## Progress
+## 🚀 Current Progress
 
-**57 / 73 Labs Completed** 🚧
+**57 / 73 Labs Completed (78%)**
 
-```
-███████████████████░░░░ 78%
-```
+## 📚 Topics Covered
 
-## Topics Covered
-
-- Switching (VLANs, Trunking, VTP, EtherChannel)
-- Layer 2 Security (Port Security, DHCP Snooping, DAI, IPSG)
+- VLANs, Trunking and VTP
+- EtherChannel
 - Inter-VLAN Routing
 - Static Routing
-- RIP, EIGRP, OSPF, Multi-Area OSPF, BGP
-- DHCP, DNS, FTP, Email and Web Services
-- ACLs
-- NAT / PAT
+- RIP, EIGRP, OSPF, Multi-Area OSPF and BGP
+- IPv4 & IPv6 Configuration
+- DHCP, DNS, FTP, HTTP and Email Services
+- ACLs (Standard & Extended)
+- NAT & PAT
 - HSRP
-- IPv6
+- Layer 2 Security (Port Security, DHCP Snooping, DAI, IPSG)
 - Cisco ASA Firewall
 - IPSec VPN
 
-## Repository Structure
+## 📁 Repository Structure
 
-Each lab typically contains:
-
+Each lab generally includes:
 - Packet Tracer (.pkt) file
-- README with notes and configuration steps
+- Lab documentation
+- Configuration steps
 - Topology screenshot
 
-## Roadmap
+## 🎯 Learning Goals
 
-- ✅ Labs 1–50 Complete
-- 🚧 Labs 51–66 In Progress
-- ✅ Labs 67–73 (ASA Firewall) Available
+- Build strong networking fundamentals.
+- Practice real-world Cisco configurations.
+- Prepare for CCNA and networking interviews.
+- Maintain a structured networking lab portfolio.
 
-Contributions, suggestions and feedback are welcome.
+## 🛠️ Tools
+
+- Cisco Packet Tracer
+- Cisco IOS CLI
+
+## ⭐ Support
+
+If you find this repository helpful, consider giving it a ⭐. Feedback and suggestions are always welcome.
