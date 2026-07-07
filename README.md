@@ -27,9 +27,9 @@ Layer 2 Switching · VLANs & Trunking · VTP & EtherChannel · Inter-VLAN Routin
 
 | Labs | Status |
 |------|--------|
-| Completed | **57 / 73** |
-| Completion | **78%** |
-| Remaining | **16 Labs** |
+| Completed | **67 / 75** |
+| Completion | **89.33%** |
+| Remaining | **9 Labs** |
 
 ## 📂 Repository Structure
 
