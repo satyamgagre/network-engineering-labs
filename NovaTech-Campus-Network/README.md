@@ -1174,8 +1174,7 @@ debug ip rip
 
 🛠 **Troubleshooting:** If a remote subnet is missing from `show ip route`, confirm the **classful** network statement is present on **both** ends of the link and that the RIP neighbor relationship is up (`show ip protocols` lists the neighbor under "Routing for Networks" and "Passive Interface(s)" should NOT include the WAN-facing interfaces).
 
-> ⚠ **Warning:** As noted in [Project Scenario](NovaTech-Campus-Network/project_description.md), the original brief called for **static routing** to reach the cloud Email Server, but this build uses RIPv2 end-to-end instead. RIPv2 works correctly here, but if strict adherence to the brief is required, replace the Cloud Router's RIP configuration with a static route (see [Future Improvements](#-future-improvements)).
-
+> ⚠ **Warning:** As noted in [Project Scenario](project_description.md), the original brief called for **static routing** to reach the Cloud Email Server. This implementation instead uses **RIPv2** end-to-end, which provides dynamic route exchange across the network. If strict adherence to the original project requirements is needed, replace the Cloud Router's RIPv2 configuration with a static route as described in the **Future Improvements** section.
 ---
 
 ### 18. Connectivity Testing
